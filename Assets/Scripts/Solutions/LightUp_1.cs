@@ -30,7 +30,7 @@ public class LightUp_1 : MonoBehaviour
 	{
 		// Call the GameLogic.PlayerSelection(GameObject sphere) method (see GameLogic.cs script) passing in the orb 
 		// this script is attached to.
-		gameLogic.PlayerSelection(this.gameObject);
+		//gameLogic.PlayerSelection(this.gameObject);
 
 		// Get the GVR audio source component on this orb and play the audio.
 		/* Uncomment the line below during 'A Little More Feedback!' lesson.*/
